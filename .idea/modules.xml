@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTest01/BinaryTest01.iml" filepath="$PROJECT_DIR$/BinaryTest01/BinaryTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P669Collection/P669Collection.iml" filepath="$PROJECT_DIR$/P669Collection/P669Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P757chapter24/P757chapter24.iml" filepath="$PROJECT_DIR$/P757chapter24/P757chapter24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P757chapter25/P757chapter25.iml" filepath="$PROJECT_DIR$/P757chapter25/P757chapter25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15--02.iml" filepath="$PROJECT_DIR$/chapter15/chapter15--02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20/chapter20.iml" filepath="$PROJECT_DIR$/chapter20/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/chapter23.iml" filepath="$PROJECT_DIR$/chapter23/chapter23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16Homework03/day16Homework03.iml" filepath="$PROJECT_DIR$/day16Homework03/day16Homework03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16Homework04/day16Homework04.iml" filepath="$PROJECT_DIR$/day16Homework04/day16Homework04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16Homework05/day16Homework05.iml" filepath="$PROJECT_DIR$/day16Homework05/day16Homework05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16Homework2/day16Homework2.iml" filepath="$PROJECT_DIR$/day16Homework2/day16Homework2.iml" />
+    </modules>
+  </component>
+</project>
